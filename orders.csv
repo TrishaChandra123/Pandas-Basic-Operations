@@ -1,0 +1,11 @@
+﻿id,first_name,last_name,email,item,material,item_color,price
+1,John,Smith,JohnSmith@abc.com,dress,cotton,black,385
+2,Nichi,Baskin,NichiBaskin@abc.com,skirt,fabric,brown,388
+3,Abby,Robins,AbbyRobins@abc.com,bag,leather,blue,346
+4,Rohit,Sweeney,RohitSweeney@abc.com,sandles,leather,red,344
+5,Elena,Matt,ElenaMatt@abc.com,stockings,net,yellow,289
+6,Jammy,Singh,JammySingh@abc.com,hairband,fabric,pink,266
+7,Omar,Khan,OmarKhan@abc.com,bangles,glass,black,395
+8,Justin,Hardinge,JustinHardinge@abc.com,pumps,wood,white,241
+9,Steph,King,StephKing@abc.com,slippers,leather,red,266
+10,Carol,Mclovin,CarolMclovin@abc.com,anklet,glass,brown,440
